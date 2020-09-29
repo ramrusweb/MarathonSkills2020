@@ -1,10 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MarathonSkills2016
+namespace MarathonSkills2020
 {
     static class Program
     {
@@ -16,7 +13,7 @@ namespace MarathonSkills2016
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
-        }
+            Application.Run(new MarathonSkillsMainForm());
+        } 
     }
 }

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MarathonSkills2016.Properties
+namespace MarathonSkills2020.Properties
 {
 
 

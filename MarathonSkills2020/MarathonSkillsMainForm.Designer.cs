@@ -1,6 +1,6 @@
-﻿namespace MarathonSkills2016
+﻿namespace MarathonSkills2020
 {
-    partial class Form1
+    partial class MarathonSkillsMainForm
     {
         /// <summary>
         /// Обязательная переменная конструктора.
@@ -31,7 +31,7 @@
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.Text = "Marathon Skills 2020";
         }
 
         #endregion
